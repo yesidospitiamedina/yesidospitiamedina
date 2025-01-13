@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   
 | Project Name  | Notebook | Instructional video | Dataset |
 | ------------- | ------------- | ------------- | ------------- |
-| Linear regression  | <a href="https://twitter.com"> <img src="https://github.com/gayanvoice/github-active-usersmonitor/raw/master/public/images/icons/twitter.svg" height="48" width="48" alt="Twitter"/> </a> | P  | P | | P  | P|
+| Linear regression  | <a href="https://twitter.com"> <img src="https://github.com/yesidospitiamedina/yesidospitiamedina/blob/main/twitter.svg" height="48" width="48" alt="Twitter"/> </a> | P  | P | | P  | P|
 | Logistic regression  | P | P  | P |
 | Clustering  | P | P | P |
 
