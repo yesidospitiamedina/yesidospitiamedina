@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 <details>
 <summary>DATA SCIENCE FUNDAMENTALS</summary>
   
-| Project  | Notebook |
+| Project Name  | Notebook | Instructional video | Dataset |
 | ------------- | ------------- |
-| Linear regression  | Content Cell  |
-| Logistic regression  | Content Cell  |
-| Clustering  | Content Cell  |
+| Linear regression  | - | -  | - |
+| Logistic regression  | - | -  | - |
+| Clustering  | - | -  | - |
 
 </details>
