@@ -1,4 +1,4 @@
-## Hi there 👋
+## Notebooks 🖥️
 
 <!--
 **yesidospitiamedina/yesidospitiamedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 <details>
 <summary>DATA SCIENCE FUNDAMENTALS</summary>
   
-| First Header  | Second Header |
+| Project  | Notebook |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Linear regression  | Content Cell  |
+| Logistic regression  | Content Cell  |
+| Clustering  | Content Cell  |
 
 </details>
