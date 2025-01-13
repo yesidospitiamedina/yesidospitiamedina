@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <summary>DATA SCIENCE FUNDAMENTALS</summary>
   
 | Project Name  | Notebook | Instructional video | Dataset |
+| ------------- | ------------- | ------------- | ------------- |
 | Linear regression  | P | P  | P |
 | Logistic regression  | P | P  | P |
 | Clustering  | P | P | P |
