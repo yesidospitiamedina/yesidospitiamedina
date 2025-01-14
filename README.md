@@ -21,8 +21,8 @@ Here are some ideas to get you started:
   
 | Project Name  | Notebook | Video | Dataset |
 | ------------- | ------------- | ------------- | ------------- |
-| Linear regression  | <a href="https://twitter.com" target="_blank" rel="noopener"> <img src="https://github.com/yesidospitiamedina/yesidospitiamedina/blob/main/icons/colab.png" height="30" width="48"/>  </a> | P  | P | | P  | P|
-| Logistic regression  | <a href="https://twitter.com" target="_blank" rel="noopener"> <img src="https://github.com/yesidospitiamedina/yesidospitiamedina/blob/main/icons/colab.png" height="30" width="48"/>  </a> | P  | P |
-| Clustering  | <a href="https://twitter.com" target="_blank" rel="noopener"> <img src="https://github.com/yesidospitiamedina/yesidospitiamedina/blob/main/icons/colab.png" height="30" width="48"/>  </a> | P | P |
+| Linear regression  | <a href="https://colab.research.google.com/drive/1y8kOr1WamgBTzGON6gkxF84le1SaZtLg?usp=sharing" target="_blank" rel="noopener"> <img src="https://github.com/yesidospitiamedina/yesidospitiamedina/blob/main/icons/colab.png" height="30" width="48"/>  </a> | P  | P | | P  | P|
+| Logistic regression  | <a href="https://colab.research.google.com/drive/1G4jqFHxDS6q1eFStvIWBzjZT46pYZO0-?usp=sharing" target="_blank" rel="noopener"> <img src="https://github.com/yesidospitiamedina/yesidospitiamedina/blob/main/icons/colab.png" height="30" width="48"/>  </a> | P  | P |
+| Clustering  | <a href="[https://twitter.com](https://colab.research.google.com/drive/1l-wnT4oAskpQUaQXePCakfMUW0gPXVmV?usp=sharing)" target="_blank" rel="noopener"> <img src="https://github.com/yesidospitiamedina/yesidospitiamedina/blob/main/icons/colab.png" height="30" width="48"/>  </a> | P | P |
 
 </details>
