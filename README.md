@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <details>
 <summary>DATA SCIENCE FUNDAMENTALS</summary>
   
-| Project Name  | Notebook | Instructional video | Dataset |
+| Project Name  | Notebook | Video | Dataset |
 | ------------- | ------------- | ------------- | ------------- |
-| Linear regression  | <a href="https://twitter.com"> <img src="https://github.com/yesidospitiamedina/yesidospitiamedina/blob/main/Colab.png" height="30" width="48"/>  </a> | P  | P | | P  | P|
+| Linear regression  | <a href="https://twitter.com"> <img src="https://github.com/yesidospitiamedina/yesidospitiamedina/blob/main/icons/colab.png" height="30" width="48"/>  </a> | P  | P | | P  | P|
 | Logistic regression  | P | P  | P |
 | Clustering  | P | P | P |
 
