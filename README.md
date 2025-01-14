@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 | Project Name  | Notebook | Video | Dataset |
 | ------------- | ------------- | ------------- | ------------- |
 | Linear regression  | <a href="https://twitter.com" target="_blank" rel="noopener"> <img src="https://github.com/yesidospitiamedina/yesidospitiamedina/blob/main/icons/colab.png" height="30" width="48"/>  </a> | P  | P | | P  | P|
-| Logistic regression  | P | P  | P |
-| Clustering  | P | P | P |
+| Logistic regression  | <a href="https://twitter.com" target="_blank" rel="noopener"> <img src="https://github.com/yesidospitiamedina/yesidospitiamedina/blob/main/icons/colab.png" height="30" width="48"/>  </a> | P  | P |
+| Clustering  | <a href="https://twitter.com" target="_blank" rel="noopener"> <img src="https://github.com/yesidospitiamedina/yesidospitiamedina/blob/main/icons/colab.png" height="30" width="48"/>  </a> | P | P |
 
 </details>
