@@ -26,3 +26,9 @@ Here are some ideas to get you started:
 | Clustering  | <a href="https://colab.research.google.com/drive/1l-wnT4oAskpQUaQXePCakfMUW0gPXVmV?usp=sharing" target="_blank" rel="noopener"> <img src="https://github.com/yesidospitiamedina/yesidospitiamedina/blob/main/icons/colab.png" height="30" width="48"/>  </a> | P | <a href="datasets/calabazas2.csv" target="_blank" rel="noopener"> <img src="https://github.com/yesidospitiamedina/yesidospitiamedina/blob/main/icons/save.png" height="30" width="30"/> |
 
 </details>
+
+
+<details>
+<summary>RECOMMENDER SYSTEMS</summary>
+
+</details>
