@@ -31,4 +31,9 @@ Here are some ideas to get you started:
 <details>
 <summary>RECOMMENDER SYSTEMS</summary>
 
+| Project Name  | Notebook | Video | Dataset |
+| ------------- | ------------- | ------------- | ------------- |
+| Mediaeval emotional viewer  | <a href="https://colab.research.google.com/drive/1kBvQpwX5m0v0GpMGytKHi5vTT3QFLJOs?usp=sharing" target="_blank" rel="noopener"> <img src="https://github.com/yesidospitiamedina/yesidospitiamedina/blob/main/icons/colab.png" height="30" width="48"/>  | -----  | Inside the notebook|
+
+
 </details>
