@@ -43,6 +43,5 @@ Here are some ideas to get you started:
 
 | Application | Details | 
 | ------------- | ------------- |
-| <a href="[https://www.google.com/](http://104.237.5.250/music-visualizer/)">Emotional music player</a> | Music player of songs from the ENSA dataset with real-time visualization for emotion recognition. |
-
+| <a href="http://104.237.5.250/music-visualizer/">Emotional music player</a> | Music player of songs from the ENSA dataset with real-time visualization for emotion recognition. |
 </details>
