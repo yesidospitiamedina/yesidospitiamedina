@@ -45,4 +45,5 @@ Here are some ideas to get you started:
 | ------------- | ------------- |
 | <a href="http://104.237.5.250/music-visualizer/">Emotional music player</a> | Music player of songs from the ENSA dataset with real-time visualization for emotion recognition. |
 | <a href="http://104.237.5.250/evaluacionensa/form.php">ENSA song labeling.</a> | ENSA song labeling with likes and dislikes, emotional categorical modeling and other demographic information. |
+| <a href="http://104.237.5.250/evaluacionensa/consultar.php">Labels generated on ENSA.</a> | Detailed report of the labels generated on the songs of the ENSA dataset. |
 </details>
