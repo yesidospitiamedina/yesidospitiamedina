@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 
 </details>
 
+<details>
 <summary>NATURAL LANGUAGE PROCESSING</summary>
 
 | Project Name  | Notebook | Video | Dataset |
