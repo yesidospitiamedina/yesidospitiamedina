@@ -38,6 +38,15 @@ Here are some ideas to get you started:
 
 </details>
 
+<summary>NATURAL LANGUAGE PROCESSING</summary>
+
+| Project Name  | Notebook | Video | Dataset |
+| ------------- | ------------- | ------------- | ------------- |
+| Identity identifier  | <a href="https://colab.research.google.com/drive/1FRL_PgSHP2Q5zh0NRprdpJ0hnTM-4yg7?usp=sharing" target="_blank" rel="noopener"> <img src="https://github.com/yesidospitiamedina/yesidospitiamedina/blob/main/icons/colab.png" height="30" width="48"/>  | -----  | Inside the notebook|
+| Sentiment analysis  | <a href="https://colab.research.google.com/drive/10ZVTJT7TdLfdTFY7kl4dXUqeU7ZK9w9O?usp=sharing" target="_blank" rel="noopener"> <img src="https://github.com/yesidospitiamedina/yesidospitiamedina/blob/main/icons/colab.png" height="30" width="48"/>  | -----  | Inside the notebook|
+
+</details>
+
 <details>
 <summary>DEPLOYMENTS</summary>
 
