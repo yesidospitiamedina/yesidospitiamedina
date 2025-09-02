@@ -35,6 +35,15 @@ Here are some ideas to get you started:
 | ------------- | ------------- | ------------- | ------------- |
 | Mediaeval emotional viewer  | <a href="https://colab.research.google.com/drive/1kBvQpwX5m0v0GpMGytKHi5vTT3QFLJOs?usp=sharing" target="_blank" rel="noopener"> <img src="https://github.com/yesidospitiamedina/yesidospitiamedina/blob/main/icons/colab.png" height="30" width="48"/>  | -----  | Inside the notebook|
 |A machine learning model for emotion recognition in music  | <a href="https://colab.research.google.com/drive/1e_zAKW5669Fa47UOUavXOMpPPfmKv6lH?usp=sharing" target="_blank" rel="noopener"> <img src="https://github.com/yesidospitiamedina/yesidospitiamedina/blob/main/icons/colab.png" height="30" width="48"/>  | -----  | Inside the notebook|
+| Fuzzy Classifier System for V/A in Music  | <a href="https://colab.research.google.com/drive/1vUJOe4c6QkPAEA4dI_qEaBXJIHJ5alPy?usp=sharing#scrollTo=de9TM8i4V2vc" target="_blank" rel="noopener"> <img src="https://github.com/yesidospitiamedina/yesidospitiamedina/blob/main/icons/colab.png" height="30" width="48"/>  | -----  | -----|
+</details>
+
+<details>
+<summary>AFFECTIVE COMPUTING</summary>
+
+| Project Name  | Notebook | Video | Dataset |
+| ------------- | ------------- | ------------- | ------------- |
+| Facial emotion recognition  | <a href="https://colab.research.google.com/drive/14Rycyok3bhc-BCEUc57EneX4HxBFsslk?usp=sharing&authuser=1#scrollTo=r6iS-w5FW0Ji" target="_blank" rel="noopener"> <img src="https://github.com/yesidospitiamedina/yesidospitiamedina/blob/main/icons/colab.png" height="30" width="48"/>  | -----  | -----|
 
 </details>
 
@@ -45,7 +54,8 @@ Here are some ideas to get you started:
 | ------------- | ------------- | ------------- | ------------- |
 | Identity identifier  | <a href="https://colab.research.google.com/drive/1FRL_PgSHP2Q5zh0NRprdpJ0hnTM-4yg7?usp=sharing" target="_blank" rel="noopener"> <img src="https://github.com/yesidospitiamedina/yesidospitiamedina/blob/main/icons/colab.png" height="30" width="48"/>  | -----  | ----- |
 | Sentiment analysis  | <a href="https://colab.research.google.com/drive/10ZVTJT7TdLfdTFY7kl4dXUqeU7ZK9w9O?usp=sharing" target="_blank" rel="noopener"> <img src="https://github.com/yesidospitiamedina/yesidospitiamedina/blob/main/icons/colab.png" height="30" width="48"/>  | -----  | -----|
-| Facial emotion recognition  | <a href="https://colab.research.google.com/drive/14Rycyok3bhc-BCEUc57EneX4HxBFsslk?usp=sharing&authuser=1#scrollTo=r6iS-w5FW0Ji" target="_blank" rel="noopener"> <img src="https://github.com/yesidospitiamedina/yesidospitiamedina/blob/main/icons/colab.png" height="30" width="48"/>  | -----  | -----|
+
+
 
 </details>
 
@@ -57,4 +67,6 @@ Here are some ideas to get you started:
 | <a href="http://104.237.5.250/music-visualizer/">Emotional music player</a> | Music player of songs from the ENSA dataset with real-time visualization for emotion recognition. |
 | <a href="http://104.237.5.250/evaluacionensa/form.php">ENSA song labeling.</a> | ENSA song labeling with likes and dislikes, emotional categorical modeling and other demographic information. |
 | <a href="http://104.237.5.250/evaluacionensa/consultar.php">Labels generated on ENSA.</a> | Detailed report of the labels generated on the songs of the ENSA dataset. |
+| <a href="http://104.237.5.250/interactive-play/">Music recommendation based on user interactions</a> | Prototype that captures implicit variables from user interaction. |
+| <a href="http://104.237.5.250/interactive-sr/">Log Generator for Interactive Recommender System</a> | Implicit labeling based on image visualization |
 </details>
