@@ -69,4 +69,5 @@ Here are some ideas to get you started:
 | <a href="http://104.237.5.250/evaluacionensa/consultar.php">Labels generated on ENSA.</a> | Detailed report of the labels generated on the songs of the ENSA dataset. |
 | <a href="http://104.237.5.250/interactive-play/">Music recommendation based on user interactions</a> | Prototype that captures implicit variables from user interaction. |
 | <a href="http://104.237.5.250/interactive-sr/">Log Generator for Interactive Recommender System</a> | Implicit labeling based on image visualization |
+| <a href="http://104.237.5.250/agent/">AI-based agent </a> | AI-based agent with knowledge and Yesid’s presentation |
 </details>
